@@ -69,10 +69,10 @@ cloud:
     stack:
       auto: false
     bucket:
-      name: 'qovunmarket'
+      name: 'you bucket name'
     credentials:
-      access-key: 'AKIAV2VDW3ICSX4DGHSP'
-      secret-key: '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'
+      access-key: ''
+      secret-key: ''
     region:
       static: ap-south-1
 logging:
